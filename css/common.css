@@ -49,15 +49,3 @@ button {
   object-fit: cover;
   border-radius: 5px;
 }
-
-.gallery .wide {
-  grid-column: span 2;
-}
-
-.gallery .tall {
-  grid-row: span 2;
-}
-
-.gallery .big {
-  grid-column: span 2;
-}
